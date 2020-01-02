@@ -92,4 +92,4 @@ labmates:
 {% include feature_row id="shilong" %}
 {% include feature_row id="labmates" %}
 
-Follow me on [Instagram <i class="fab fa-instagram"></i>](https://www.instagram.com/pra_kash.om/)
+You can follow me on [Instagram <i class="fab fa-instagram"></i>](https://www.instagram.com/pra_kash.om/)
