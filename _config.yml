@@ -20,7 +20,7 @@ title                    : "Om Prakash"
 title_separator          : "-"
 subtitle                 : "Version: Rookie" # site tagline that appears below site title in masthead
 name                     : "Om Prakash"
-description              : "Hi, I'm Om Prakash, currently pursuing a Ph.D. at the Dept. of Chemical Engineering, IIT Bombay. Welcome to my website."
+description              : "Hi, I'm Om Prakash, currently pursuing a Ph.D. in the Department of Chemical Engineering at IIT Bombay. Welcome to my website."
 url                      : #"https://prakashoms.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "prakashoms/prakashoms.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
