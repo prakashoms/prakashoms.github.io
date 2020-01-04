@@ -46,7 +46,7 @@ iitbCampus1:
 iitbCampus2:
   - image_path: https://live.staticflickr.com/65535/49298141886_2c6950e031_o.jpg
     alt: "Moon"
-    excerpt: "<br> The Moon reminds me of someone. So I like it up watching closely."
+    excerpt: "<br> The Moon reminds me of someone. It is the one thing which we both can watch at the same time."
   - image_path: https://live.staticflickr.com/65535/49297658498_16fba1fac8_o.jpg
     alt: "tree and crows"
     excerpt: "<br> Leader crow addressing everybody: All are assigned their jobs now. Let's move; Sun is coming up."
