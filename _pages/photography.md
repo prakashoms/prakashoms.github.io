@@ -10,7 +10,7 @@ header:
   actions:
     - label: "My Instagram"
       url: "https://www.instagram.com/pra_kash.om/"
-excerpt: "Exploring through my lenses, the beauty Nature has endowed us with."
+excerpt: "Exploring through my lenses, the beauty, Nature has endowed us with."
 intro: 
   - excerpt: " **`A picture is worth a thousand words.`** "
 
