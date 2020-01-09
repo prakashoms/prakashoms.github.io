@@ -6,16 +6,12 @@ permalink: /automationlab-network/
 ## Automation Lab: Guide-student network
 A big <span style="color:red">red circle</span> represents the guide, and all the nodes (in same colour) attached to it, represent their students.
 <span style="color:#59981a">Path colour</span>: current Ph.D. student;
-<span style="color:#59981a">Dotted path</span>: graduated Ph.D. student;
-<span style="color:#0066ff">Path colour</span>: current M.Tech. student;
-<span style="color:#0066ff">Dotted path</span>: graduated M.Tech. student;
-<span style="color:#63747a">Path colour</span>: current B.Tech+M.Tech. student;
-<span style="color:#63747a">Dotted path</span>: graduated B.Tech+M.Tech. student.
+<span style="color:#59981a">Dotted path</span>: graduated Ph.D. student.
 
 **Fun to do <i class="far fa-grin-beam"></i>:** Try hovering your mouse pointer on the nodes and try dragging the nodes while holding it.
 {: .notice--info}
 
-**Note:** The following network only comprises of recent (Batch: >= 2016) students. 
+**Note:** The following network only comprises of recent (**Graduating batch: >= 2016**) students. 
 {: .notice--warning}
 
 <!-- <!DOCTYPE html> -->
