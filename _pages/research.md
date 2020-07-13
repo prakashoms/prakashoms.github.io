@@ -37,7 +37,7 @@ Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh 
 `[Eager to update this section soon]`
 
 ## Conference proceedings
-{% include feature_row id="conference_dbop" type="left" %}
+[//]: <{% include feature_row id="conference_dbop" type="left" %}>
 
 ## Presentations/Posters presented in conferences/meetings
 - O. Prakash, M. Bhushan, *Optimal Sensor Network Design for Chemical Processes Using System Level Metrics*, **poster** presented at Research Scholars' Symposium (RSS), IIT Bombay, Mumbai, India, March 2019.
