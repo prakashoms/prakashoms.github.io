@@ -9,7 +9,7 @@ header:
   caption: "The dawning of an advanced civilization"
   actions:
     - label: "My Instagram"
-      url: "https://www.instagram.com/pra_kash.om/"
+      url: "https://www.instagram.com/omprakash.click/"
 excerpt: "Exploring through my lenses, the beauty, Nature has endowed us with."
 intro: 
   - excerpt: " **`A picture is worth a thousand words.`** "
@@ -92,4 +92,4 @@ labmates:
 {% include feature_row id="shilong" %}
 {% include feature_row id="labmates" %}
 
-You can follow me on [Instagram <i class="fab fa-instagram"></i>](https://www.instagram.com/pra_kash.om/)
+You can follow me on [Instagram <i class="fab fa-instagram"></i>](https://www.instagram.com/omprakash.click/)
