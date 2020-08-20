@@ -30,7 +30,7 @@ Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh 
 - `Information Theory`
 
 ## Journal publications
-- Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, Raghunathan Rengaswamy, *Sensor Network Design Based on System-Wide Reliability Criteria. Part I: Objectives*, Journal of Process Control (2020). `[Soon to be online]`
+- Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, Raghunathan Rengaswamy, *Sensor Network Design Based on System-Wide Reliability Criteria. Part I: Objectives*, Journal of Process Control (2020), [[Access]](https://authors.elsevier.com/c/1bavY_Lpm1xWIu) [[Download Link]](https://doi.org/10.1016/j.jprocont.2020.07.007).
 - Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, Raghunathan Rengaswamy, *Sensor network design based on system-wide reliability criteria. Part II: Formulations and applications*, Journal of Process Control (2020), [[Access]](https://authors.elsevier.com/c/1bSYD3Q5WJJ2xV) [[Download Link]](https://doi.org/10.1016/j.jprocont.2020.07.004).
 
 
