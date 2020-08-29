@@ -26,8 +26,8 @@ Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh 
 ## Research interest
 - `Sensor network design`
 - `Data reconciliation`
-- `Network analysis`
 - `Information Theory`
+- `Optimization`
 
 ## Journal publications
 - Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, Raghunathan Rengaswamy, **Sensor Network Design Based on System-Wide Reliability Criteria. Part I: Objectives**, Journal of Process Control (2020), [[Access]](https://authors.elsevier.com/c/1bavY_Lpm1xWIu) [[Download Link]](https://doi.org/10.1016/j.jprocont.2020.07.007).
