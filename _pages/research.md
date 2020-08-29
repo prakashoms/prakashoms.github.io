@@ -35,7 +35,7 @@ Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh 
 
 
 ## Conference proceedings
-- Om Prakash, Mani Bhushan, *A Novel Information Theoretic Measure Based Sensor Network Design Approach for Steady State Linear Data Reconciliation*, IFAC 2020
+- Om Prakash, Mani Bhushan, **A Novel Information Theoretic Measure Based Sensor Network Design Approach for Steady State Linear Data Reconciliation**, IFAC World Congress 2020
 
 ## Presentations/Posters presented in conferences/meetings
 - O. Prakash, M. Bhushan, *Optimal Sensor Network Design for Chemical Processes Using System Level Metrics*, **poster** presented at Research Scholars' Symposium (RSS), IIT Bombay, Mumbai, India, March 2019.
