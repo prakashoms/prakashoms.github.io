@@ -16,12 +16,18 @@ intro:
 ---
 {% include feature_row id="intro" type="center" %}
 
-<!--- <details> --><summary> <i class="fas fa-plus-circle"></i> My Erdős number is 8; And for some reason, my Bacon number hasn't yet dropped below infinity.</summary>
+<!--- <summary> <i class="fas fa-plus-circle"></i> My Erdős number is 8; And for some reason, my Bacon number hasn't yet dropped below infinity.</summary>
 <p>
 Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh M. Date -> Gautam Mitra -> Gregory Z. Gutin -> Noga Alon -> Paul Erdős
 </p>
-<!--- </details> -->
-{: .notice--info}
+</details>
+{: .notice--info} -->
+
+<i class="fas fa-plus-circle"></i> My Erdős number is 8; And for some reason, my Bacon number hasn't yet dropped below infinity.
+<p>
+Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh M. Date -> Gautam Mitra -> Gregory Z. Gutin -> Noga Alon -> Paul Erdős
+</p>
+{: .notice--info} 
 
 ## Research interest
 - `Sensor network design`
