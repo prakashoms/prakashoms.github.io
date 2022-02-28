@@ -33,17 +33,18 @@ My resume can be found here as a [PDF](#) (soon to be updated).
 
 ### Technical skills:
 - Software: MATLAB, Aspen Plus, COMSOL
-- Programming language: C, Python
+- Programming language: Python
 
 ### Major courses:
-- Computational Methods in Chemical Engineering `[Autumn'16]`
-- Artificial Intelligence in Process Engineering `[Autumn'16]`
-- Advanced Process Control `[Spring'16]`
-- Optimization `[Spring'16]`
-- Introduction to Network Analysis `[Spring'18]`
+- Computational Methods in Chemical Engineering
+- Artificial Intelligence in Process Engineering
+- Advanced Process Control
+- State Estimation
+- Optimization
+- Introduction to Network Analysis
 
 ## About Blog
-I always used to think that it must be cool to have a website of your own. So, finally, I have tried my best to make one. Once I attended a talk by [Prof. T. DebRoy](https://www.matse.psu.edu/directory/tarasankar-debroy) about the *importance of peer-reviewed articles* in Dec’19. He mentioned that being a researcher, it is very much required that one should have a habit of reading and writing articles. Well, I try my best to read, but writing peer-reviewed articles, although done once in a while, is still an exhausting process. So, here, I created this [blog](/blog/) to write about my observations of some research related concepts I come by. Nonetheless, I would also try to write about social and other interesting kinds of stuff. Since I am a beginner to all these website-blog things, I would very much appreciate getting any constructive feedback on my posts. **Thank you**.
+Made out of curiosity.
 
 ## About the website logo
 The website logo is motivated from the concept of an [ambigram](https://en.wikipedia.org/wiki/Ambigram). My idea for creating this logo was to read as `OM` (refers to [ॐ](https://en.wikipedia.org/wiki/Om)) in one orientation and read as `विद्या` ([Vidya](https://en.wikipedia.org/wiki/Vidya_(philosophy)) in sanskrit means true knowledge) after rotating it by 180 deg. Here is the crude effort I made.
