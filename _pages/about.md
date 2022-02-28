@@ -21,7 +21,7 @@ My resume can be found here as a [PDF](#) (soon to be updated).
 
 ## Currently involved in...
 
-### Ph.D. [`July 2016 - Present`] :
+### Ph.D. [`Present`] :
 - In the Department of Chemical Engineering at IIT Bombay 
 - Guide: [Professor Mani Bhushan](https://www.che.iitb.ac.in/faculty/mani-bhushan)
 - Research title: Sensor network design for chemical processes using system level metrics
