@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Om Prakash"
 title_separator          : "-"
-subtitle                 : "Version: {\displaystyle \infty}" # site tagline that appears below site title in masthead
+subtitle                 : "Version: 0/0" # site tagline that appears below site title in masthead
 name                     : "Om Prakash"
 description              : "Hi, I'm Om Prakash, currently pursuing a Ph.D. in the Department of Chemical Engineering at IIT Bombay. Welcome to my website."
 url                      : #"https://prakashoms.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
