@@ -44,7 +44,7 @@ My resume can be found here as a [PDF](#) (soon to be updated).
 - Introduction to Network Analysis
 
 ## About Blog
-Made out of curiosity.
+Born out of curiosity.
 
 ## About the website logo
 The website logo is motivated from the concept of an [ambigram](https://en.wikipedia.org/wiki/Ambigram). My idea for creating this logo was to read as `OM` (refers to [ॐ](https://en.wikipedia.org/wiki/Om)) in one orientation and read as `विद्या` ([Vidya](https://en.wikipedia.org/wiki/Vidya_(philosophy)) in sanskrit means true knowledge) after rotating it by 180 deg. Here is the crude effort I made.
