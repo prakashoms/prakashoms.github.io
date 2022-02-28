@@ -25,7 +25,7 @@ My resume can be found here as a [PDF](#) (soon to be updated).
 - In the Department of Chemical Engineering at IIT Bombay 
 - Guide: [Professor Mani Bhushan](https://www.che.iitb.ac.in/faculty/mani-bhushan)
 - Research title: Sensor network design for chemical processes using system level metrics
-- Also working on a project (sponsored by RIL) titled, Forecast progressive cavity pump failure during production and artificial lift in CBM
+- Also working on a project (sponsored by a leading oil and gas company) titled, Forecast progressive cavity pump failure during production and artificial lift in CBM
 
 [//]:### Other past projects:
 [//]:- Optimization based techno-economic analysis of microgrid integrated low gas producing wells for localized [//]:power generation. `[Aug 2015 - May 2016]`
