@@ -30,7 +30,7 @@ Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh 
 {: .notice--info} 
 
 ## Research interest
-- `Sensor placement design`, `Data reconciliation`, `Fault detection and diagnosis`, `Information Theory`, `Optimization`, `Machine learning`
+- `Sensor placement design`, `Data reconciliation`, `Fault detection and diagnosis`, `Information theory`, `Optimization`, `Bayesian inference`, `Machine learning`
 
 ## Journal publications
 - Om Prakash and Mani Bhushan, **Cumulative Residual Kullback-Leibler Divergence Based Sensor Placement Using Reliability Criteria**, Computers and Chemical Engineering (2022), [[Preprint]](https://drive.google.com/file/d/1iHvLlWWVrciz0N6byXe2-KmMUldbvSA4/view?usp=sharing) [[Publisher Link]]().
