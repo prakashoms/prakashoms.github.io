@@ -36,14 +36,17 @@ Om Prakash -> Mani Bhushan -> Sharad Bhartiya -> Paluri S. V. Nataraj -> Paresh 
 - `Optimization`
 
 ## Journal publications
-- Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, Raghunathan Rengaswamy, **Sensor Network Design Based on System-Wide Reliability Criteria. Part I: Objectives**, Journal of Process Control (2020), [[Access]](https://authors.elsevier.com/c/1bavY_Lpm1xWIu) [[Download Link]](https://doi.org/10.1016/j.jprocont.2020.07.007).
-- Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, Raghunathan Rengaswamy, **Sensor network design based on system-wide reliability criteria. Part II: Formulations and applications**, Journal of Process Control (2020), [[Access]](https://authors.elsevier.com/c/1bSYD3Q5WJJ2xV) [[Download Link]](https://doi.org/10.1016/j.jprocont.2020.07.004).
+- Om Prakash and Mani Bhushan, **Cumulative Residual Kullback-Leibler Divergence Based Sensor Placement Using Reliability Criteria**, Computers and Chemical Engineering (2022), [[Preprint]](https://drive.google.com/file/d/1iHvLlWWVrciz0N6byXe2-KmMUldbvSA4/view?usp=sharing) [[Publisher Link]]().
+- Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, and Raghunathan Rengaswamy, **Sensor Network Design Based on System-Wide Reliability Criteria. Part I: Objectives**, Journal of Process Control (2020), [[Preprint]](https://drive.google.com/file/d/1huOkhINxSRJyBzpBpygxxUW_kMK7YE8v/view?usp=sharing) [[Publisher Link]](https://doi.org/10.1016/j.jprocont.2020.07.007).
+- Om Prakash, Mani Bhushan, Sridharakumar Narasimhan, and Raghunathan Rengaswamy, **Sensor network design based on system-wide reliability criteria. Part II: Formulations and applications**, Journal of Process Control (2020), [[Preprint]](https://drive.google.com/file/d/1PqAY6-jARnmjGMOLtWvN_7wooC0dCsOp/view?usp=sharing) [[Publisher Link]](https://doi.org/10.1016/j.jprocont.2020.07.004).
 
 
 ## Conference proceedings
-- Om Prakash, Mani Bhushan, **A Novel Information Theoretic Measure Based Sensor Network Design Approach for Steady State Linear Data Reconciliation**, IFAC World Congress 2020
+- Om Prakash and Mani Bhushan, **A Novel Cycle Partitioning Approach to Reliability Based Optimal Sensor Placement for Linear Flow Processes**, PSE 2021+ conference, Kyoto, [[Preprint]](https://drive.google.com/file/d/1_rLMRMUFUfa95RcmtJjNxSuW50w8u4bF/view?usp=sharing) [[Publisher Link]]().
+- Om Prakash and Mani Bhushan, **A Novel Information Theoretic Measure Based Sensor Network Design Approach for Steady State Linear Data Reconciliation**, IFAC World Congress 2020, Germany, [[Preprint]](https://drive.google.com/file/d/17F8UmUQO7ooykjrNUWS6cB2R3Kp1_BI7/view?usp=sharing) [[Publisher Link]](https://doi.org/10.1016/j.ifacol.2020.12.1750).
 
 ## Presentations/Posters presented in conferences/meetings
+- Om Prakash and Mani Bhushan, **A Novel Cycle Partitioning Approach to Reliability Based Optimal Sensor Placement for Linear Flow Processes**, PSE 2021+ conference, Kyoto, [[Poster Link]](https://drive.google.com/file/d/1Nd20yTFUCAHxphcwVtDQ9Bf4bmG45NBL/view?usp=sharing).
 - O. Prakash, M. Bhushan, *Optimal Sensor Network Design for Chemical Processes Using System Level Metrics*, **poster** presented at Research Scholars' Symposium (RSS), IIT Bombay, Mumbai, India, March 2019.
 - S. Pradhan, O. Prakash, *An investigation of shale gas as a potential unconventional resource in India*, **poster** presented at 6th World PetroCoal Congress, New Delhi, India, February 2016. [[Download PDF]](https://www.researchgate.net/publication/307930096_An_investigation_of_shale_gas_as_a_potential_unconventional_resource_in_India)
 - S. Pradhan and O. Prakash, *Shale Gas Play: Possibility and Challenges in India as an Unconventional Energy Resource*, **oral** presentation given at Chemcon 2015, IIT Guwahati, Assam, India, December 2015. [[Download PDF]](https://www.researchgate.net/publication/307931834_Shale_Gas_Play_Possibility_and_Challenges_in_India_as_an_Unconventional_Energy_Resource/stats)
