@@ -12,6 +12,3 @@ He made this website because he wanted to express his thoughts; sometimes, it al
 OP likes coding, trekking, capturing photos through his lenses (visit his [photography page](/photography/)), running, learning about one or two new things, listening to Bollywood melodies, and watching action movies on his old laptop, which he borrowed from his sister a long time back. Well, whatever he does, he is not an expert in those, but he is keen to learn. Last but not least, he does not want to talk about himself in the 3rd person. <i class="far fa-grin-beam"></i>
 
 **Thank you for visiting the website**.
-{: .text-left}
-**अतिथि देवो भव:**
-{: .text-right}
