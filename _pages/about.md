@@ -21,11 +21,12 @@ My resume can be found here as a [PDF](#) (soon to be updated).
 
 ## Currently involved in...
 
-### Ph.D. [`Present`] :
-- In the Department of Chemical Engineering at IIT Bombay 
+### Ph.D. thesis defended in Aug 2022:
+- In the Department of Chemical Engineering at Indian Institute of Technology Bombay (India)
 - Guide: [Professor Mani Bhushan](https://www.che.iitb.ac.in/faculty/mani-bhushan)
-- Research title: Sensor network design for chemical processes using system level metrics
-- Also working on a project (sponsored by a leading oil and gas company) titled, Forecast progressive cavity pump failure during production and artificial lift in CBM
+- Thesis title: Sensor Placement Design Using System Level Measures for Applications in Fault Detection and Diagnosis and Estimation of Variables
+
+### Also worked on a project (sponsored by a leading oil and gas company) titled, Forecast progressive cavity pump failure during production and artificial lift in CBM
 
 [//]:### Other past projects:
 [//]:- Optimization based techno-economic analysis of microgrid integrated low gas producing wells for localized [//]:power generation. `[Aug 2015 - May 2016]`
