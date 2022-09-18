@@ -26,7 +26,8 @@ My resume can be found here as a [PDF](#) (soon to be updated).
 - Guide: [Professor Mani Bhushan](https://www.che.iitb.ac.in/faculty/mani-bhushan)
 - Thesis title: Sensor Placement Design Using System Level Measures for Applications in Fault Detection and Diagnosis and Estimation of Variables
 
-### Also worked on a project (sponsored by a leading oil and gas company) titled, Forecast progressive cavity pump failure during production and artificial lift in CBM
+### Industrial project in 2019:
+- Worked on a project (sponsored by a leading oil and gas company) titled, Forecast progressive cavity pump failure during production and artificial lift in CBM
 
 [//]:### Other past projects:
 [//]:- Optimization based techno-economic analysis of microgrid integrated low gas producing wells for localized [//]:power generation. `[Aug 2015 - May 2016]`
