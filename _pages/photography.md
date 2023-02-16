@@ -34,7 +34,7 @@ harishchandragadh2:
   - image_path: https://live.staticflickr.com/65535/49298143171_10ff587295_o.jpg
     alt: "Harishchandragad, MH, India"
     #title: "Kedareshwar Cave (4,665 ft. AMSL)"
-    excerpt: "<br> When a journey cross a milestone, relax, breathe, and rejuvenate. Even the setting Sun smilingly peeps and say, see you tomorrow. <br>
+    excerpt: "<br> When a journey crosses a milestone, relax, breathe, and rejuvenate. Even the setting Sun smilingly peeps and say, see you tomorrow. <br>
     **Location:** Taramati peak, Harishchandragad, Maharashtra, India"
 
 iitbCampus1:
